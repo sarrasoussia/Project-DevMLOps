@@ -8,6 +8,6 @@ pip install tensorflow keras
 
 To install the dependencies for each service, you can use:
 # Install SVM dependencies
-pip install -r services/svm_service/requirements.txt
+pip install -r backend/svm/requirements.txt
 # Install VGG19 dependencies
-pip install -r services/vgg19_service/requirements.txt
+pip install -r backend/vgg19/requirements.txt
