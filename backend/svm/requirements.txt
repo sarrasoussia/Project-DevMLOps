@@ -1,0 +1,7 @@
+flask
+librosa
+numpy
+scipy
+scikit-learn
+matplotlib
+pycm==0.8.1
